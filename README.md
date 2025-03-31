@@ -46,7 +46,8 @@ Hello, I am a programmer with experience in
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Teo-Dev&label=Visitors&color=blue&style=plastic" alt="Profile Views"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=You're+visitor+number...+👀;Hope+you+enjoy+my+profile!+🚀" alt="Typing SVG"/>
+ <hr>
+  <p> Thanks for watching !</p>
 </p>
 
 
