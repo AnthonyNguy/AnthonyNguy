@@ -42,11 +42,11 @@ Hello, I am a programmer with experience in
   <img src="https://github-profile-trophy.vercel.app/?username=Teo-Dev&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
-## 👀 Profile Views
+## 👀 Who's Watching?
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Teo-Dev&icon=2&color=3" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Teo-Dev&label=Visitors&color=blue&style=plastic" alt="Profile Views"/>
   <br/>
-  <img src="https://img.shields.io/badge/Views-%F0%9F%91%80%20{visitcount}-blue" alt="Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=You're+visitor+number...+👀;Hope+you+enjoy+my+profile!+🚀" alt="Typing SVG"/>
 </p>
 
 
