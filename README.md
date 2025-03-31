@@ -6,19 +6,13 @@ Hello, I am a programmer with experience in
 </p>
 
 ## 🌐 Socials
-<p align="left">
-  <a href="https://www.facebook.com/nguyen.tai.305269" target="_blank"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.tiktok.com/@teodevgenz?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <br/>
-  📧 **nteo8145nteo8145@gmail.com**
-</p>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.tai.305269)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@teodevgenz?is_from_webapp=1&sender_device=pc)
+![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)
+
+📧 **nteo8145nteo8145@gmail.com**
+
 
 
 
