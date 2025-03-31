@@ -4,7 +4,7 @@ Hello, I am a programmer with experience in
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!+" alt="Typing SVG" />
 </p>
-<br/>
+
 
 ## 🌐 Socials :
 
