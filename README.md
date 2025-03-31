@@ -8,12 +8,11 @@ Hello, I am a programmer with experience in
 
 ## 🌐 Socials
 <p align="left ">
-  <a style="magin:2%" href="https://www.facebook.com/nguyen.tai.305269" target="_blank"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-   
+  <a href="https://www.facebook.com/nguyen.tai.305269" target="_blank"> 
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" style="margin: 5px;"/>
   </a>
   <a href="https://www.tiktok.com/@teodevgenz?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" style="margin: 5px;"/>
   </a>
  <a>
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"/>
