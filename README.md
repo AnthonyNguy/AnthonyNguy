@@ -7,9 +7,9 @@ Hello, I am a programmer with experience in
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.tai.305269)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.tai.305269)   &nbsp;&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@teodevgenz?is_from_webapp=1&sender_device=pc)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)   ("nteo8145nteo8145@gmail.com"]
+
 
  
 
