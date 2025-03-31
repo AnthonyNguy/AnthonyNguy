@@ -1,19 +1,24 @@
 # 💫About Me :
 Hello, I am a programmer with experience in
  website and software development 🧑‍💻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!+🚀" alt="Typing SVG" />
+</p>
 
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://www.facebook.com/nguyen.tai" target="_blank">
+  <a href="https://www.facebook.com/nguyen.tai.305269" target="_blank"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+   Nguyễn Tài 
   </a>
-  <a href="https://www.tiktok.com/@your_tiktok_username" target="_blank">
+  <a href="https://www.tiktok.com/@teodevgenz?is_from_webapp=1&sender_device=pc" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="mailto:your_email@gmail.com" target="_blank">
+ <a>
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <span style="font-size: 18px; font-weight: bold; color: #D14836;">nteo8145nteo8145@gmail.com</span>
 </p>
 
 # 💻Tech Stack
@@ -32,18 +37,16 @@ Hello, I am a programmer with experience in
 </p>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!+🚀" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Teo-Dev&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
-## 👀 Profile View
+## 👀 Profile Views
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Teo-Dev&icon=2&color=3" alt="Profile Views"/>
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=Teo-Dev&icon=2&color=3" alt="Profile Views"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Views-%F0%9F%91%80%20{visitcount}-blue" alt="Views"/>
 </p>
+
 
