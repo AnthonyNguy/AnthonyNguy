@@ -4,10 +4,11 @@ Hello, I am a programmer with experience in
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!+" alt="Typing SVG" />
 </p>
+<br/>
 
-## 🌐 Socials
+## 🌐 Socials :
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.tai.305269)   &nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.tai.305269)   &nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@teodevgenz?is_from_webapp=1&sender_device=pc)
 
 
