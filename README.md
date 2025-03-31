@@ -2,13 +2,13 @@
 Hello, I am a programmer with experience in
  website and software development 🧑‍💻
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!+" alt="Typing SVG" />
 </p>
 
 
 ## 🌐 Socials
-<p align="left">
-  <a href="https://www.facebook.com/nguyen.tai.305269" target="_blank"> 
+<p align="left ">
+  <a style="magin:2%" href="https://www.facebook.com/nguyen.tai.305269" target="_blank"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
    
   </a>
@@ -18,7 +18,7 @@ Hello, I am a programmer with experience in
  <a>
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <span style="font-size: 18px; font-weight: bold; color: #D14836;">nteo8145nteo8145@gmail.com</span>
+  <span style="font-size: 18px; magin:2%; font-weight: bold; color: #D14836;">nteo8145nteo8145@gmail.com</span>
 </p>
 
 # 💻Tech Stack
